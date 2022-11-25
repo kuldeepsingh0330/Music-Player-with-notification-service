@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tabs xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <tab
+        drawable="@drawable/my_music"
+        text="@string/my_music" />
+    <tab
+        drawable="@drawable/album"
+        text="@string/album" />
+    <tab
+        drawable="@drawable/favourite"
+        text="@string/favourite" />
+</Tabs>

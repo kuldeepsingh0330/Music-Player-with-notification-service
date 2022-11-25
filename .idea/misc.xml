@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable-v24/backwh.xml" value="0.132" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/add.xml" value="0.132" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/album.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/back.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/border_shadow.xml" value="0.132" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/curved.xml" value="0.1315" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/custom_thumb.xml" value="0.132" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/equilzer.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/favorite_border.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/favourite.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/filter.xml" value="0.1" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/loop.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/music_icon.xml" value="0.1395" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/music_icon_graient.xml" value="0.1395" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/next.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/previous.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/remove.xml" value="0.132" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/scroll_bar.xml" value="0.1315" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/search_bg.xml" value="0.1" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/seekbar_progress.xml" value="0.132" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/seekbar_style.xml" value="0.132" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/share.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/shuffle.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/splah_screen.xml" value="0.1" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/drawable/stopwtch.xml" value="0.1175" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout-v23/activity_player.xml" value="0.33" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/activity_empty.xml" value="0.22" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.2" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/activity_song_selection2.xml" value="0.1717948717948718" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/add_playlist_dialog.xml" value="0.1" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.4365234375" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/display_song.xml" value="0.18" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/favourite_layout.xml" value="0.5" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/fragment_curr_playing.xml" value="0.1953125" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/fragment_favourite.xml" value="0.1" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/fragment_my_music.xml" value="0.1" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/fragment_playlist.xml" value="0.1" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/layout/playlist_layout.xml" value="0.15" />
+        <entry key="..\:/CHATAPP FOLDER/MusicPlayer/app/src/main/res/xml/tabs.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
