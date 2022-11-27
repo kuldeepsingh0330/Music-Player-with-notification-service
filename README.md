@@ -10,7 +10,7 @@ Their is an feature of an set any music as favourite.
 ## Features
 
 - Create or delete Playlist
-- set any as Favoutite
+- set any song as Favoutite
 - Notification service
 - Foreground service 
 - Play , pause song fron the Notification
